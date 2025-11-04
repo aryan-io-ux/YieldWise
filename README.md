@@ -80,7 +80,7 @@ To set up and run this project on your local machine, please follow these steps.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/KumarPranavv/YieldWise.git](https://github.com/KumarPranavv/YieldWise.git)
+    git clone [https://github.com/aryan-io-ux/YieldWise.git](https://github.com/aryan-io-ux/YieldWise.git)
     cd YieldWise
     ```
 
